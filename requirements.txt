@@ -6,7 +6,7 @@ blinker==1.4
 cffi==1.11.2
 cleo==0.6.1
 constantly==15.1.0
-cryptography==2.1.4
+cryptography==2.3
 cssselect==1.0.1
 Faker==0.7.18
 hyperlink==17.3.1
